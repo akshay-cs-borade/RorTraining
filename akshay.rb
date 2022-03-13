@@ -3,3 +3,5 @@ puts a
 
 b = "Testing"
 puts b
+
+c = "Testing CCCCCCC"
